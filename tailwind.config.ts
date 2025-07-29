@@ -66,13 +66,13 @@ export default {
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
 				},
-				countryball: {
-					red: '#FF4444',
-					blue: '#4444FF',
-					yellow: '#FFDD44',
-					green: '#44FF44',
-					gray: '#333333',
-					white: '#FFFFFF'
+				currency: {
+					gold: '#FFD700',
+					green: '#10B981',
+					red: '#EF4444',
+					blue: '#3B82F6',
+					dark: '#1F2937',
+					light: '#F9FAFB'
 				}
 			},
 			borderRadius: {
